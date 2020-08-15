@@ -1,0 +1,36 @@
+const { stage0 } = require('./stage0');
+const { stage1 } = require('./stage1');
+const { stage2 } = require('./stage2');
+const { stage3 } = require('./stage3');
+const { stage4 } = require('./stage4');
+const { stage5 } = require('./stage5');
+const { stage6 } = require('./stage6');
+const { stage7 } = require('./stage7');
+const { stage8 } = require('./stage8');
+const { stage9 } = require('./stage9');
+const { stage10 } = require('./stage10');
+const { stage11 } = require('./stage11');
+const { stage12 } = require('./stage12');
+const { stage13 } = require('./stage13');
+const { stage14 } = require('./stage14');
+const { stage15 } = require('./stage15');
+const { stage16 } = require('./stage16');
+
+
+exports.stage0 = stage0;
+exports.stage1 = stage1;
+exports.stage2 = stage2;
+exports.stage3 = stage3;
+exports.stage4 = stage4;
+exports.stage5 = stage5;
+exports.stage6 = stage6;
+exports.stage7 = stage7;
+exports.stage8 = stage8;
+exports.stage9 = stage9;
+exports.stage10 = stage10;
+exports.stage11 = stage11;
+exports.stage12 = stage12;
+exports.stage13 = stage13;
+exports.stage14 = stage14;
+exports.stage15 = stage15;
+exports.stage16 = stage16;
